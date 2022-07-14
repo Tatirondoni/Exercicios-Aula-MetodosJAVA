@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Java Scratch">
+    <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../../../Program Files/Java/zulu11.56.19-ca-jdk11.0.15-win_x64" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="com.Aula.Exercicio.Main" />
+    <module name="Aula-Metodos" />
+    <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/src/com/Aula/Exercicio/Main.java" />
+    <shortenClasspath name="NONE" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/Aula/Exercicio" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
